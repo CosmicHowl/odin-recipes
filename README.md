@@ -1,1 +1,2 @@
 # odin-recipes
+By the end of this project, I will have demonstrated a basic understanding of HTML and perhaps some extremely rudimentary formatting. I will update this readme when I return to apply CSS at a later date.
