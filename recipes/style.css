@@ -1,0 +1,45 @@
+* {
+    background-color: lavender;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    font-size: 48px;
+    color: blueviolet;
+    text-align: center;
+
+    font-weight: 500;
+    background-color: ivory;
+    border-style: double;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+    font-weight: 400;
+    background-color: ivory;
+    border-style: double;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+ul {
+    border-style: dotted;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 1%;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#allrec {
+    margin: 0%;
+}
